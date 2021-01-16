@@ -1,5 +1,8 @@
 import json
 
+def myFun() {
+    print("Hello..!!")
+}
 
 def lambda_handler(event, context):
     body = "Hello from Lambda!"
