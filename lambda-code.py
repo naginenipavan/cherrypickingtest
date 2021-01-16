@@ -1,6 +1,7 @@
 import json
 
 def new_fun() {
+  print("Happy New Year 2021..!!")
   return "Happy New Year 2021..!!"
 }
 
